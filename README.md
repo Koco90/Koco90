@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mariko
 
 #### 🔭 I’m currently working on building my data science knowledge.
 
